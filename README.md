@@ -4,3 +4,4 @@
 - Palindrome Number ✓ EASY 
 - Find Three Consecutive Integers That Sum to a Given Number ✓ MEDIUM
 - Roman to Integer ✓ EASY
+- Longest Common Prefix ✓ EASY
